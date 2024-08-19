@@ -1,5 +1,9 @@
 ![FiveM](https://img.shields.io/badge/FiveM-%2300a3e0.svg?style=flat&logo=discord&logoColor=white) ![ESX](https://img.shields.io/badge/ESX-%231c1c1c.svg?style=flat&logo=steam&logoColor=white) ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat) 
 
+**Author:** customcodex  
+**Version:** 1.0.0  
+**Description:** A FiveM ESX script that slows down vehicles to a configurable speed when a tire is shot and logs the event to a Discord webhook.
+
 ## Overview
 
 The `codex-slowdown` script enhances the realism of vehicle interactions in FiveM roleplay by slowing down vehicles when their tires are shot. It also includes a feature to log these events to a Discord channel via a webhook, with a configurable system to prevent spam and provide clear, actionable information.
@@ -32,4 +36,4 @@ For any issues, customization requests, or additional support, feel free to reac
 ### Explanation:
 
 - **Support and Customization Section**: Added a section for support and customization requests, including an email contact.
-- **Issues and Contributions**: Updated to include a link to open issues and submit pull requests. Replace `https://github.com/codex-slowdown/issues` and `https://github.com/your-repo/pulls` with the actual URLs of your GitHub repository.
+- **Issues and Contributions**: Updated to include a link to open issues and submit pull requests. Replace `https://github.com/codex-slowdown/issues` and `https://github.com/codex-slowdown/pulls` with the actual URLs of your GitHub repository.
