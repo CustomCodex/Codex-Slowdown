@@ -32,4 +32,4 @@ For any issues, customization requests, or additional support, feel free to reac
 ### Explanation:
 
 - **Support and Customization Section**: Added a section for support and customization requests, including an email contact.
-- **Issues and Contributions**: Updated to include a link to open issues and submit pull requests. Replace `https://github.com/your-repo/issues` and `https://github.com/your-repo/pulls` with the actual URLs of your GitHub repository.
+- **Issues and Contributions**: Updated to include a link to open issues and submit pull requests. Replace `https://github.com/codex-slowdown/issues` and `https://github.com/your-repo/pulls` with the actual URLs of your GitHub repository.
