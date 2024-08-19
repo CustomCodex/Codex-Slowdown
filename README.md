@@ -32,8 +32,7 @@ The `codex-slowdown` script enhances the realism of vehicle interactions in Five
 📧 **Support and Customization**:<br>
 For any issues, customization requests, or additional support, feel free to reach out to us at [info@hutsakeee.nl](mailto:info@hutsakeee.nl). We’re here to help you enhance your roleplaying experience!
 
-
 ### Explanation:
 
 - **Support and Customization Section**: Added a section for support and customization requests, including an email contact.
-- **Issues and Contributions**: Updated to include a link to open issues and submit pull requests. Replace `https://github.com/codex-slowdown/issues` and `https://github.com/codex-slowdown/pulls` with the actual URLs of your GitHub repository.
+- **Issues and Contributions**: Updated to include a link to open issues and submit pull requests. `https://github.com/codex-slowdown/issues` and `https://github.com/codex-slowdown/pulls`
